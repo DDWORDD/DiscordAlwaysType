@@ -37,3 +37,4 @@ while True:
 		count += 1
 		print(f"Sent - {count}")
 	sleep(3)
+print("DONE")
